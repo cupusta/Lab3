@@ -167,11 +167,7 @@ public class Main {
         treeSetByAge.addAll(humans);
         System.out.println("Task 3E");
         System.out.println(treeSetByAge);
-        // Задание 3f
 
-        // HashSet и LinkedHashSet не выполняют сортировку элементов, но удаляют дубликаты.
-        // При этом они хранят элементы по-разному, поэтому порядок хранения не гарантирован.
-        // TreeSet, напротив, всегда сортирует элементы и удаляет дубликаты в соответствии с порядком.
 
         // Задание 4
 
